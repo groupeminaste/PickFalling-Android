@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PickFalling</string>
+
+    <string name="lost">¡Pierde!</string>
+    <string name="menu">Menú</string>
+    <string name="leaderboards">Clasificación</string>
+    <string name="leaderboards_total">Puntaje total</string>
+    <string name="leaderboards_highest">Mejor puntaje</string>
+    <string name="leaderboards_highest_in">Mejor puntage en %s</string>
+    <string name="achievements">Logros</string>
+    <string name="score">Puntaje: %d</string>
+    <string name="highest">Mejor puntaje: %d</string>
+    <string name="total">Puntaje total: %d</string>
+    <string name="unlock">Desbloquear: %d</string>
+    <string name="clicktostart">Haz clic para empezar</string>
+
+    <string name="play_button">Jugar</string>
+    <string name="replay_button">Volver a jugar</string>
+    <string name="home_button">Volver al menú</string>
+    <string name="mode_button">%s\n%s</string>
+
+    <string name="error_gms_connection">Impossible de conectarse a los servicios Google Play Games</string>
+</resources>

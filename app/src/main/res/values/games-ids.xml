@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">841088153839</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">fr.zabricraft.pickfalling</string>
+    <!-- achievement First game -->
+    <string name="achievement_first_game" translatable="false">CgkI7_GKpr0YEAIQEA</string>
+    <!-- achievement Unlock 1 level -->
+    <string name="achievement_unlock_1_level" translatable="false">CgkI7_GKpr0YEAIQEg</string>
+    <!-- achievement Unlock 5 levels -->
+    <string name="achievement_unlock_5_levels" translatable="false">CgkI7_GKpr0YEAIQEw</string>
+    <!-- achievement Unlock 10 levels -->
+    <string name="achievement_unlock_10_levels" translatable="false">CgkI7_GKpr0YEAIQFA</string>
+    <!-- achievement Unlock all levels -->
+    <string name="achievement_unlock_all_levels" translatable="false">CgkI7_GKpr0YEAIQFQ</string>
+    <!-- achievement Get 250 points at once -->
+    <string name="achievement_get_250_points_at_once" translatable="false">CgkI7_GKpr0YEAIQFg</string>
+    <!-- achievement Get 500 points at once -->
+    <string name="achievement_get_500_points_at_once" translatable="false">CgkI7_GKpr0YEAIQFw</string>
+    <!-- achievement Get 750 points at once -->
+    <string name="achievement_get_750_points_at_once" translatable="false">CgkI7_GKpr0YEAIQGA</string>
+    <!-- achievement Get 1000 points at once -->
+    <string name="achievement_get_1000_points_at_once" translatable="false">CgkI7_GKpr0YEAIQGQ</string>
+    <!-- leaderboard Total score -->
+    <string name="leaderboard_total_score" translatable="false">CgkI7_GKpr0YEAIQCw</string>
+    <!-- leaderboard Highest score -->
+    <string name="leaderboard_highest_score" translatable="false">CgkI7_GKpr0YEAIQAQ</string>
+    <!-- leaderboard Highest score in CLASSIC -->
+    <string name="leaderboard_highest_score_in_classic" translatable="false">CgkI7_GKpr0YEAIQAg</string>
+    <!-- leaderboard Highest score in UNICORN -->
+    <string name="leaderboard_highest_score_in_unicorn" translatable="false">CgkI7_GKpr0YEAIQAw</string>
+    <!-- leaderboard Highest score in FISH -->
+    <string name="leaderboard_highest_score_in_fish" translatable="false">CgkI7_GKpr0YEAIQBA</string>
+    <!-- leaderboard Highest score in CAT -->
+    <string name="leaderboard_highest_score_in_cat" translatable="false">CgkI7_GKpr0YEAIQBQ</string>
+    <!-- leaderboard Highest score in BIRD -->
+    <string name="leaderboard_highest_score_in_bird" translatable="false">CgkI7_GKpr0YEAIQBg</string>
+    <!-- leaderboard Highest score in SHELL -->
+    <string name="leaderboard_highest_score_in_shell" translatable="false">CgkI7_GKpr0YEAIQGg</string>
+    <!-- leaderboard Highest score in QUICK -->
+    <string name="leaderboard_highest_score_in_quick" translatable="false">CgkI7_GKpr0YEAIQBw</string>
+    <!-- leaderboard Highest score in MIRROR -->
+    <string name="leaderboard_highest_score_in_mirror" translatable="false">CgkI7_GKpr0YEAIQCA</string>
+    <!-- leaderboard Highest score in ZIGZAG -->
+    <string name="leaderboard_highest_score_in_zigzag" translatable="false">CgkI7_GKpr0YEAIQCQ</string>
+    <!-- leaderboard Highest score in RANDOM -->
+    <string name="leaderboard_highest_score_in_random" translatable="false">CgkI7_GKpr0YEAIQCg</string>
+    <!-- leaderboard Highest score in BONUS -->
+    <string name="leaderboard_highest_score_in_bonus" translatable="false">CgkI7_GKpr0YEAIQDA</string>
+    <!-- leaderboard Highest score in EVERYTHING -->
+    <string name="leaderboard_highest_score_in_everything" translatable="false">CgkI7_GKpr0YEAIQDQ</string>
+    <!-- leaderboard Highest score in CONTROL -->
+    <string name="leaderboard_highest_score_in_control" translatable="false">CgkI7_GKpr0YEAIQDg</string>
+    <!-- leaderboard Highest score in RANDOM2 -->
+    <string name="leaderboard_highest_score_in_random2" translatable="false">CgkI7_GKpr0YEAIQGw</string>
+</resources>

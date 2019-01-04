@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "841088153839",
+    "firebase_url": "https://pickfalling-7185247.firebaseio.com",
+    "project_id": "pickfalling-7185247",
+    "storage_bucket": "pickfalling-7185247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841088153839:android:39809a9529c153bc",
+        "android_client_info": {
+          "package_name": "fr.zabricraft.pickfalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841088153839-7ro3bedr7rar4j9smqb35gcsdsv0va20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.zabricraft.pickfalling",
+            "certificate_hash": "4454438211f69326305390927dfb1a7ff029cd47"
+          }
+        },
+        {
+          "client_id": "841088153839-cruf5acg5kt5l5spmn7n1lcksu42hg5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9cYdmrRMAkg1CycidC1GvF4bFEGyPE-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841088153839-cruf5acg5kt5l5spmn7n1lcksu42hg5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
